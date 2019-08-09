@@ -28,7 +28,7 @@
     <None Include="InformationProcessing.aps" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter02\Question\Q54.c">
+    <ClCompile Include="Chapter02\Section011\Exam 1-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -28,7 +28,7 @@
     <None Include="InformationProcessing.aps" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter02\Question\Q54.c" />
+    <ClCompile Include="Chapter02\Section011\Exam 1-1.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
